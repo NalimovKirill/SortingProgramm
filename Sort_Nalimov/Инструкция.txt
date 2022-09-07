@@ -1,0 +1,12 @@
+Java 18.0.2.1
+Система сборки Intellij
+Использованы только стандартные java библиотеки:
+	java.io.BufferedReader;
+	java.io.FileNotFoundException;
+	java.io.FileReader;
+	java.io.FileWriter;
+	java.io.IOException;
+	java.util.ArrayList;
+	java.util.Collections;
+
+Все описание работы программы можно понять по комментариям в коде
